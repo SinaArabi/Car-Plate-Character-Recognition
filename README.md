@@ -21,6 +21,7 @@ Install required packages using:
 
 ```bash
 pip install opencv-python matplotlib numpy pytesseract
+```
 
 ## Files
 
